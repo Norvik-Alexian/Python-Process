@@ -4,7 +4,7 @@
 
 ## Why Multiprocessing
 * Multicore systems allows to perform several tasks at the same time.
-* Some time we need to perform several tasks simultaneously or almost simultaneously.
+* Sometimes we need to perform several tasks simultaneously or almost simultaneously.
 * Python Multiprocessing unlike Threading allows to use the CPU cores more effectively, but also requires more resources
 and have less convenient mechanisms for sharing data.
 
